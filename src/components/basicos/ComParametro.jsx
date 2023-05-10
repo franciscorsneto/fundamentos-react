@@ -14,4 +14,4 @@ export default function ComParametro(props) {
             </p>
         </div>
     )
-}
+} 
